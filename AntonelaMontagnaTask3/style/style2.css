@@ -1,0 +1,56 @@
+* {
+  font-family: "Source Sans Pro", "Arial", sans-serif;
+  font-family: cursive;
+  margin: 0px;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.o-header_headerContainer {
+  height: 250px;
+  background-image: url(../assets/design1_image1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.logo {
+  width: 200px;
+  margin-left: -100px;
+  margin-top: 50px;
+  border: 2px solid #feffff;
+}
+
+h2 {
+  width: 1270px;
+  height: 50px;
+  padding: 0px;
+  background-color: #feffff;
+  color: #000000;
+  text-align: center;
+  font-size: 25px;
+  margin-left: -41px;
+  margin-top: 197px;
+}
+
+h3 {
+  padding-left: 250px;
+}
+
+p {
+  padding-left: 330px;
+  border-top-style: solid;
+  margin-top: -34px;
+  border-top-width: 0px;
+}
+
+nav {
+  margin-top: -260px;
+  margin-left: 790px;
+  padding: 0;
+}
+nav li {
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
